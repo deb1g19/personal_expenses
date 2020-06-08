@@ -1,4 +1,4 @@
-# personalexpenses
+# Spending Tracker
 
 A flutter based spending tracker that uses time stamped cards to intuitively show your spending over the last week
 
